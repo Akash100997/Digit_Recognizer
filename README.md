@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Digit Recognizer / Classifier
 
-You can use the [editor on GitHub](https://github.com/Akash100997/MNIST_CLASSIFIER/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This project is a simple deep neural network that classifies digits from 0 to 9. I had used the tensorflow framework to build, compile and to train the model. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can go through [MNIST Database Wiki](https://en.wikipedia.org/wiki/MNIST_database) if you are willing to and here is an example of ![MNIST Datas](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png)
 
-### Markdown
+Steps to be followed are:
+1. Download the MNIST Datas
+2. Separate the Train and Test Datas
+3. Build the Model with Simple Sequential Feed Forward Network.
+4. Compile the model with proper loss and optimizer function.
+5. Train the model.
+6. Make some predictions (Tweak some hyperparameters(learning rate, epochs) if required).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akash100997/MNIST_CLASSIFIER/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+And that's it you have done building your Simple MNIST Classifier.
