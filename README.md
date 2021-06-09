@@ -1,6 +1,6 @@
 ## Digit Recognizer / Classifier
 
-This project is a simple deep neural network that classifies digits from 0 to 9. I had used the tensorflow framework to build, compile and to train the model. 
+This project is a simple deep neural network that classifies digits from 0 to 9. I had used the [tensorflow](https://www.tensorflow.org/) framework to build, compile and to train the model. 
 
 You can go through [MNIST Database Wiki](https://en.wikipedia.org/wiki/MNIST_database) if you are willing to and here is an example of [MNIST Datas](https://miro.medium.com/max/1168/1*2lSjt9YKJn9sxK7DSeGDyw.jpeg)
 
