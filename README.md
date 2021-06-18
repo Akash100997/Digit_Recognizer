@@ -1,4 +1,4 @@
-## Digit Recognizer / Classifier
+## Digit Recognizer 
 
 This project is a simple deep neural network that classifies digits from 0 to 9. I had used the [tensorflow](https://www.tensorflow.org/) framework to build, compile and to train the model. 
 
